@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 270.94 97.42">
+  <defs>
+    <linearGradient id="Dégradé_sans_nom_98" data-name="Dégradé sans nom 98" x1="39.46" y1="84.28" x2="39.46" y2="10.53" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#553189"/>
+      <stop offset=".33" stop-color="#3f2884"/>
+      <stop offset=".4" stop-color="#3a277b"/>
+      <stop offset=".6" stop-color="#2f2668"/>
+      <stop offset=".74" stop-color="#2b2662"/>
+      <stop offset="1" stop-color="#1f2147"/>
+    </linearGradient>
+  </defs>
+  <text transform="translate(78.82 61.48) scale(.94 1)" style="fill: #000000; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 44.87px; font-weight: 900; stroke: #000; stroke-miterlimit: 10; stroke-width: .35px;"><tspan x="0" y="0">Of</tspan></text>
+  <text transform="translate(127.32 62.03) scale(.94 1)" style="fill: #000000; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 44.87px; font-weight: 900;"><tspan x="0" y="0">Bytes</tspan></text>
+  <text transform="translate(80.34 82.28) scale(1.19 1)" style="fill: #000000; font-family: MicrosoftTaiLe, &apos;Microsoft Tai Le&apos;; font-size: 12px; letter-spacing: .01em; font-weight: 800; stroke: #000; stroke-width: .08px;"><tspan x="-6" y="0">Think.</tspan></text>
+  <text transform="translate(155.6 82.28) scale(.95 1)" style="fill: #000000; font-family: MicrosoftTaiLe, &apos;Microsoft Tai Le&apos;; font-size: 12px; stroke: #544294; font-weight: 800; stroke-miterlimit: 10; stroke-width: .1px;"><tspan dx="3" x="10" y="0">Make it real.</tspan></text>
+  <text transform="translate(118.56 82.41) scale(1.19 1)" style="fill: #000000; font-family: MicrosoftTaiLe, &apos;Microsoft Tai Le&apos;; font-size: 12px; letter-spacing: .01em; font-weight: 800; stroke: #000; stroke-width: .08px;"><tspan dx="-7"  x="10" y="0">Build.</tspan></text>
+  
+  <path d="M68.5,66.78l-27.84,17.16c-.76.47-1.72.47-2.48,0l-27.8-17.22c-.69-.43-1.12-1.19-1.11-2l.03-34.66c0-.82.42-1.57,1.12-2l27.84-17.16c.76-.47,1.72-.47,2.48,0l27.8,17.22c.69.43,1.12,1.19,1.11,2l-.03,34.66c0,.82-.42,1.57-1.12,2Z" style="fill: #000; stroke: #1d1d1b; stroke-miterlimit: 10; stroke-width: .25px;"/>
+  <text transform="translate(19.63 65.17)" style="fill: #fff; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 50.77px; font-weight: 700; letter-spacing: 0em;"><tspan x="0" y="0">O</tspan></text>
+    
+</svg>
+

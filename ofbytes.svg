@@ -17,7 +17,8 @@
   <text transform="translate(118.56 82.41) scale(1.19 1)" style="fill: #000000; font-family: MicrosoftTaiLe, &apos;Microsoft Tai Le&apos;; font-size: 12px; letter-spacing: .01em; font-weight: 800; stroke: #000; stroke-width: .08px;"><tspan dx="-7"  x="10" y="0">Build.</tspan></text>
   
   <path d="M68.5,66.78l-27.84,17.16c-.76.47-1.72.47-2.48,0l-27.8-17.22c-.69-.43-1.12-1.19-1.11-2l.03-34.66c0-.82.42-1.57,1.12-2l27.84-17.16c.76-.47,1.72-.47,2.48,0l27.8,17.22c.69.43,1.12,1.19,1.11,2l-.03,34.66c0,.82-.42,1.57-1.12,2Z" style="fill: #000; stroke: #1d1d1b; stroke-miterlimit: 10; stroke-width: .25px;"/>
-  <text transform="translate(19.63 65.17)" style="fill: #fff; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 50.77px; font-weight: 700; letter-spacing: 0em;"><tspan x="0" y="0">O</tspan></text>
+  <!-- O vectorisé : géométrie indépendante des polices installées -->
+  <path d="M39.46 28.20 A19.20 19.20 0 1 1 39.46 66.60 A19.20 19.20 0 1 1 39.46 28.20 Z M39.46 35.70 A11.70 11.70 0 1 0 39.46 59.10 A11.70 11.70 0 1 0 39.46 35.70 Z" fill="#fff" fill-rule="evenodd"/>
     
 </svg>
 
